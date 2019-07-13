@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961473716759",
+    "firebase_url": "https://dawikend.firebaseio.com",
+    "project_id": "dawikend",
+    "storage_bucket": "dawikend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961473716759:android:a14dca8a51134245",
+        "android_client_info": {
+          "package_name": "com.example.lanocheappmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961473716759-h1pktg45mpla2f6ev4e1kpdr4qf0ipvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lanocheappmoviles",
+            "certificate_hash": "579992c3508b1d4f8b625e168c65f7de8ab82668"
+          }
+        },
+        {
+          "client_id": "961473716759-kf0mogncsujao11nj0bf9rbu1dfumoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkz7rucBtInRFKXJ9uADb17dmCum2O-ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961473716759-kf0mogncsujao11nj0bf9rbu1dfumoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
